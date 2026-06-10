@@ -8,15 +8,15 @@ global.ButtonV2 = ButtonV2;
 global.Carousel = Carousel;
 global.AIRich = AIRich;
 
-global.pairingNumber = 212666666666;
+global.pairingNumber = 201142086385;
 global.owner = [
-  ['212717457920', 'noureddine Ouafy', true],
+  ['212639248232', 'abdo jm3', true],
   ['', 'Owner 2', true],
 ];
 
-global.namebot = 'gaff ai';
-global.author = 'Noureddine ouafy';
-global.source = 'https://chat.whatsapp.com/Hp3R0WWD5G8Li9HKBU6fn3';
+global.namebot = 'jeen ai';
+global.author = 'abdo jm3';
+global.source = 'https://whatsapp.com/channel/0029Valkz9f2P59m5mtUqA1j';
 
 global.wait = 'Loading... | جاري الانتظار';
 global.eror = 'There is an error... | وقع خطأ';
